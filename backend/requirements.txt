@@ -6,6 +6,7 @@ mysqlclient
 numpy
 pandas
 pydantic
+pydantic-settings
 pymysql
 python-dotenv
 requests
