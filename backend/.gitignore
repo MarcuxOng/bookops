@@ -1,0 +1,40 @@
+# Python cache and build files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environment
+.env
+venv/
+ENV/
+env/
+.venv/
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# Database / shelve files
+*.db
+*.dat
+*.bak
+*.dir
+
+# Jupyter / matplotlib cache
+.ipynb_checkpoints/
+.matplotlib/
+
+# OS generated files
+.DS_Store
+Thumbs.db

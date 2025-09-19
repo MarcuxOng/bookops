@@ -1,0 +1,15 @@
+cryptography
+fastapi
+httpx
+matplotlib
+mysqlclient       
+numpy
+pandas
+pydantic
+pymysql
+python-dotenv
+requests
+scikit-learn
+sqlalchemy
+tabulate
+uvicorn[standard]
